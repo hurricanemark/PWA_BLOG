@@ -1,3 +1,5 @@
 node_modules
 .env
 public/index_ori.html
+.parcel-cache
+.parcel-cache/*
